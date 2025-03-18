@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\AltSKUF.Back.RestClient.csproj",
+      "projectUniqueName": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\src\\AltSKUF.Back.RestClient.csproj",
       "projectName": "AltSKUF.Back.RestClient",
-      "projectPath": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\AltSKUF.Back.RestClient.csproj",
+      "projectPath": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\src\\AltSKUF.Back.RestClient.csproj",
       "packagesPath": "C:\\Users\\wenawo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\obj\\",
+      "outputPath": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

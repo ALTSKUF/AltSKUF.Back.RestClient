@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/IkJnqKlM4I=",
+  "dgSpecHash": "DLwkYhAmonI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\AltSKUF.Back.RestClient.csproj",
+  "projectFilePath": "C:\\Users\\wenawo\\source\\repos\\AltSKUF.Back.RestClient\\src\\AltSKUF.Back.RestClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wenawo\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\wenawo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

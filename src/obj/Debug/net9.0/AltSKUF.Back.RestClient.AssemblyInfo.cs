@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AltSKUF.Back.RestClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87ab0ba045daa7ea369b787191fcd7e09ec3adfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AltSKUF.Back.RestClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AltSKUF.Back.RestClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
